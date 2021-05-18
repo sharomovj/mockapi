@@ -1,8 +1,6 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
-  }
+  "userId": 1,
+  "id": 1,
+  "title": "delectus aut autem",
+  "completed": false
 }
